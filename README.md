@@ -2,7 +2,7 @@
 
 Meu nome é Marcos Gusmão e sou Brasileiro (🇧🇷). Estou em desenvolvimento para me tornar um Fullstack nas stacks Nodejs, React e React-Native, e durante minha jornada estou aprendendo outras linguagens e Frameworks.
 
-Nas horas vagas gasto com Jogos, Fimes e séries, Musica faz parte do meu dia a dia (🎵) e adoro Happy Hour com amigos(🍺).
+Nas horas vagas gasto com Jogos, Filmes e séries, Musica faz parte do meu dia a dia (🎵) e adoro Happy Hour com amigos(🍺).
 
 <!--
 **marcosgusmao/marcosgusmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
